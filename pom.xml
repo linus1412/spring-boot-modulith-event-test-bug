@@ -6,7 +6,7 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>3.3.7</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <relativePath/> <!-- lookup parent froxm repository -->
     </parent>
     <groupId>uk.co.smitek</groupId>
     <artifactId>spring-boot-modulith-event-test-bug</artifactId>
